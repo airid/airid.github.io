@@ -6,12 +6,15 @@
 ***********************************************/
 /* Social icons font
 ***********************************************/
-@import url('font-embedded.css');
+@import url('fontello-embedded.css');
 .need-share-button {
   position: relative;
 }
 .need-share-button-opened {
   position: relative;
+}
+.need-share-button:before {
+  content: '微信';
 }
 .need-share-button-opened img.need-share-wechat-code-image {
   display: block;
@@ -177,6 +180,9 @@
 .need-share-button_weibo {
   color: #d52b2b;
 }
+.need-share-button_weibo:before {
+  content: '微博';
+}
 .need-share-button_weibo.need-share-button_link-box {
   color: #fff;
 
@@ -186,7 +192,7 @@
   color: #072;
 }
 .need-share-button_douban:before {
-  content: '豆';
+  content: '豆瓣';
 }
 .need-share-button_douban.need-share-button_link-box {
   color: #fff;
@@ -197,7 +203,7 @@
   color: #ffce00;
 }
 .need-share-button_qqzone:before {
-  content: '\f1d6';
+  content: 'QQ';
 }
 .need-share-button_qqzone.need-share-button_link-box {
   color: #fff;
@@ -207,6 +213,9 @@
 .need-share-button_renren {
   color: #207cc5;
 }
+.need-share-button_renren:before {
+  content: '人人';
+}
 .need-share-button_renren.need-share-button_link-box {
   color: #fff;
 
@@ -215,6 +224,9 @@
 .need-share-button_mailto {
   color: #efbe00;
 }
+.need-share-button_mailto:before {
+  content: '邮箱';
+}
 .need-share-button_mailto.need-share-button_link-box {
   color: #fff;
 
@@ -222,6 +234,9 @@
 }
 .need-share-button_twitter {
   color: #00acec;
+}
+.need-share-button_twitter:before {
+  content: '推特';
 }
 .need-share-button_twitter.need-share-button_link-box {
   color: #fff;
@@ -238,6 +253,9 @@
 }
 .need-share-button_facebook {
   color: #3b5998;
+}
+.need-share-button_facebook:before {
+  content: '推特';
 }
 .need-share-button_facebook.need-share-button_link-box {
   color: #fff;
