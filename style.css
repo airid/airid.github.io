@@ -277,7 +277,7 @@
 .need-share-button-opened {
   position: relative;
 }
-.need-share-button:before {
+.need-share-button-opened:before {
   content: '微信';
 }
 .need-share-button-opened img.need-share-wechat-code-image {
@@ -497,7 +497,7 @@
   color: #00acec;
 }
 .need-share-button_twitter:before {
-  content: '推特';
+  content: 'twitter';
 }
 .need-share-button_twitter.need-share-button_link-box {
   color: #fff;
@@ -516,7 +516,7 @@
   color: #3b5998;
 }
 .need-share-button_facebook:before {
-  content: '推特';
+  content: 'facebook';
 }
 .need-share-button_facebook.need-share-button_link-box {
   color: #fff;
