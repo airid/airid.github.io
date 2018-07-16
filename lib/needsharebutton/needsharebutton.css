@@ -177,6 +177,9 @@
 .need-share-button_weibo {
   color: #d52b2b;
 }
+.need-share-button_weibo:before {
+  content: '豆';
+}
 .need-share-button_weibo.need-share-button_link-box {
   color: #fff;
 
