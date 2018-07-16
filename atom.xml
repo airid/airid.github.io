@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>年号</title>
+  
+  <subtitle>啊?今年是啥年?</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://nianhao.date/"/>
+  <updated>2018-07-15T09:56:44.042Z</updated>
+  <id>http://nianhao.date/</id>
+  
+  <author>
+    <name>年号</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>网站更新记录</title>
+    <link href="http://nianhao.date/2018/SiteUpdate/"/>
+    <id>http://nianhao.date/2018/SiteUpdate/</id>
+    <published>2018-07-15T09:43:32.000Z</published>
+    <updated>2018-07-15T09:56:44.042Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;ul&gt;
+&lt;li&gt;2018-07-10 网站开始架设&lt;/li&gt;
+&lt;li&gt;2018-07-15 网站正式上线,网站说明在 &lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="Site" scheme="http://nianhao.date/categories/Site/"/>
+    
+      <category term="Update" scheme="http://nianhao.date/categories/Site/Update/"/>
+    
+    
+      <category term="Github" scheme="http://nianhao.date/tags/Github/"/>
+    
+      <category term="Hexo" scheme="http://nianhao.date/tags/Hexo/"/>
+    
+      <category term="Site" scheme="http://nianhao.date/tags/Site/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>学习Markdown</title>
+    <link href="http://nianhao.date/2018/LearnMarkdown/"/>
+    <id>http://nianhao.date/2018/LearnMarkdown/</id>
+    <published>2018-07-14T02:50:00.000Z</published>
+    <updated>2018-07-15T09:44:10.989Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot; class=&quot;headerlink&quot; title=&quot;简介&quot;&gt;&lt;/a&gt;简介&lt;/h1&gt;&lt;p&gt;Markdown
+        
+      
+    
+    </summary>
+    
+      <category term="Markdown" scheme="http://nianhao.date/categories/Markdown/"/>
+    
+      <category term="Learn" scheme="http://nianhao.date/categories/Markdown/Learn/"/>
+    
+    
+      <category term="Markdown" scheme="http://nianhao.date/tags/Markdown/"/>
+    
+      <category term="Learn" scheme="http://nianhao.date/tags/Learn/"/>
+    
+  </entry>
+  
+</feed>
