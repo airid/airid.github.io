@@ -1,1 +1,1 @@
-airid.github.io
+airid
