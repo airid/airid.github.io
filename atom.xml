@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://nianhao.date/"/>
-  <updated>2018-07-16T23:58:58.906Z</updated>
+  <updated>2018-07-17T12:27:15.680Z</updated>
   <id>http://nianhao.date/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>初识 .net core</title>
+    <link href="http://nianhao.date/2018/dotnet-core-new/"/>
+    <id>http://nianhao.date/2018/dotnet-core-new/</id>
+    <published>2018-07-17T10:50:26.000Z</published>
+    <updated>2018-07-17T12:27:15.680Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;写在前面的话&quot;&gt;&lt;a href=&quot;#写在前面的话&quot; class=&quot;headerlink&quot; title=&quot;写在前面的话&quot;&gt;&lt;/a&gt;写在前面的话&lt;/h1&gt;&lt;p&gt;.net
+        
+      
+    
+    </summary>
+    
+      <category term=".net" scheme="http://nianhao.date/categories/net/"/>
+    
+      <category term=".net core" scheme="http://nianhao.date/categories/net/net-core/"/>
+    
+    
+      <category term=".net core" scheme="http://nianhao.date/tags/net-core/"/>
+    
+  </entry>
   
   <entry>
     <title>网站更新记录</title>
