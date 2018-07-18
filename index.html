@@ -2116,7 +2116,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #3de0ff;
+  background: #331fcc;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3270,6 +3270,18 @@ hr {
 }
 .main-inner {
   width: 900px;
+}
+.posts-expand .post {
+  margin-top: 0px;
+}
+.post {
+  margin-bottom: 25px;
+}
+.btn {
+  color: #00008b;
+}
+.post-button a {
+  border: none;
 }</style><noscript><link rel="stylesheet" href="/style.css"><link rel="stylesheet" href="//cdn.bootcss.com/pace/1.0.2/themes/blue/pace-theme-flash.css"></noscript></head>
 
 <body itemscope="" itemtype="http://schema.org/WebPage" lang="zh-Hans">
@@ -3534,6 +3546,9 @@ hr {
                 <span class="post-meta-item-icon">
                   <i class="fa fa-comment-o"></i>
                 </span>
+                 <span id="gitment-display-button">
+                  评论
+                </span>
                 <a href="/2018/dotnet-core-new/#comments" itemprop="discussionUrl">
                   <span class="post-comments-count valine-comment-count" data-xid="/2018/dotnet-core-new/" itemprop="commentCount"></span>
                 </a>
@@ -3596,7 +3611,7 @@ hr {
       
         
           
-          写在前面的话.net core出来很长时间了,之前探索过一次,感觉一般般,可能版本比较低的时候吧.今天无意中看到别人,推荐用 .net core做为游戏服务器的,还有很多成功案列.我大惊,发展这么快吗.如果真的可以,真的是优秀啊,静态语言,跨平台,强大的.net库,宇宙第一IDE.所以我就探索探索 
+          写在前面的话.net core出来很长时间了,之前探索过一次,感觉一般般,可能版本比较低的时候吧.今天无意中看到别人,推荐用 .net core做为游戏服务器的,还有很多成功案列.我大惊,发展这么快吗
           ...
           <!--noindex-->
           <div class="post-button text-center">
@@ -3745,6 +3760,9 @@ hr {
                 <span class="post-meta-divider">|</span>
                 <span class="post-meta-item-icon">
                   <i class="fa fa-comment-o"></i>
+                </span>
+                 <span id="gitment-display-button">
+                  评论
                 </span>
                 <a href="/2018/SiteUpdate/#comments" itemprop="discussionUrl">
                   <span class="post-comments-count valine-comment-count" data-xid="/2018/SiteUpdate/" itemprop="commentCount"></span>
@@ -3963,6 +3981,9 @@ hr {
                 <span class="post-meta-item-icon">
                   <i class="fa fa-comment-o"></i>
                 </span>
+                 <span id="gitment-display-button">
+                  评论
+                </span>
                 <a href="/2018/LearnMarkdown/#comments" itemprop="discussionUrl">
                   <span class="post-comments-count valine-comment-count" data-xid="/2018/LearnMarkdown/" itemprop="commentCount"></span>
                 </a>
@@ -4026,8 +4047,7 @@ hr {
         
           
           简介Markdown 是一种可以使用普通文本编辑器编写的标记语言,通过简单的标记语法,它可以使普通文本内容具有一定的格式。
-HTML 的全称是HyperText Markup Language 超文本标记语言,注意里面的 Markup ,刚好和 Markdown 相反。
-所以 Markdown 的意
+HTML 的全称是HyperText Markup Language 超文本
           ...
           <!--noindex-->
           <div class="post-button text-center">

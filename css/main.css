@@ -1979,7 +1979,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #e2fffc;
+  background: #ff14ff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3133,4 +3133,16 @@ hr {
 }
 .main-inner {
   width: 900px;
+}
+.posts-expand .post {
+  margin-top: 0px;
+}
+.post {
+  margin-bottom: 25px;
+}
+.btn {
+  color: #00008b;
+}
+.post-button a {
+  border: none;
 }
