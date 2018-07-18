@@ -9,5 +9,5 @@ Disallow: /js/
 Disallow: /css/
 Disallow: /fonts/
 
-Sitemap: http://nianhao.date/sitemap.xml
-Sitemap: http://nianhao.date/baidusitemap.xml
+Sitemap: http://nianhao.site/sitemap.xml
+Sitemap: http://nianhao.site/baidusitemap.xml
