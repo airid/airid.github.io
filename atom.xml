@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://nianhao.site/"/>
-  <updated>2018-07-17T12:27:15.680Z</updated>
+  <updated>2018-07-26T00:48:34.533Z</updated>
   <id>http://nianhao.site/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>二维码安全的思考</title>
+    <link href="http://nianhao.site/2018/QRcodeSecurity/"/>
+    <id>http://nianhao.site/2018/QRcodeSecurity/</id>
+    <published>2018-07-25T23:54:36.000Z</published>
+    <updated>2018-07-26T00:48:34.533Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&amp;#160; &amp;#160; &amp;#160; &amp;#160;当今的摄像科技水平发展迅速,能拍的更远,更清晰,更智能化处理视频和图像信息.&lt;br&gt;&amp;#160; &amp;#160; &amp;#160; &amp;#160;之前有做过远距离二维码识别的项目.所以有了下面的瞎想.&lt;br&gt;&amp;#160;
+        
+      
+    
+    </summary>
+    
+      <category term="胡思乱想" scheme="http://nianhao.site/categories/%E8%83%A1%E6%80%9D%E4%B9%B1%E6%83%B3/"/>
+    
+    
+      <category term="胡思乱想" scheme="http://nianhao.site/tags/%E8%83%A1%E6%80%9D%E4%B9%B1%E6%83%B3/"/>
+    
+  </entry>
   
   <entry>
     <title>初识 .net core</title>
